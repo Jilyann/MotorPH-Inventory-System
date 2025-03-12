@@ -1,5 +1,3 @@
-# MotorPH-Inventory-System
-A Java-based inventory system for MotorPH using BST and CSV handling.
 # MotorPH Inventory System 🚀
 
 A Java-based inventory system for **MotorPH**, utilizing **Binary Search Tree (BST)** for efficient stock management. This system reads and writes data to a **CSV file** to maintain an organized inventory.
